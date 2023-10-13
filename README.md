@@ -1,5 +1,5 @@
 # Multiple-QA
-The repo contains the dataset for Multiple-QA. The 'Multi-answer' directory contains only the multi-answer dataset, while the 'all' directory contains the full dataset, which includes both multi-answer and single-answer datasets.
+The repo contains the dataset for Multiple-QA. The 'data/Multiple-dataset' directory contains only the multi-answer dataset, while the 'Multiple-expend' directory contains the full dataset, which includes both multi-answer and single-answer datasets.
 A sample of the data is as follows:
 
 ```JSON
